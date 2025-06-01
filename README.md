@@ -87,3 +87,7 @@ Data/: Holds the ApplicationDbContext for Entity Framework Core, managing databa
 Services/: Implements the core business logic for workflow and process management.
 Middleware/: Contains the custom validation middleware logic.
 DTOs/: (If implemented) Data Transfer Objects for request and response serialization.
+
+## to test the API
+Postman or Swagger UI
+https://localhost:44325/index.html
